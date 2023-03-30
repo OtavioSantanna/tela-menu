@@ -38,7 +38,5 @@ header
 }
 .navbar a:hover
 {
-    color: #3299CC	;
-    background: rgba(255, 255, 255, 0.2);
-    
+    color: #3299CC	;   
 }
